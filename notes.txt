@@ -1,0 +1,2 @@
+"src" folder will hold our source code. (Here our input resides)
+"build" folder will contain all the files and artifacts when we build our react application for deployment. (Here our output resides i.e. bundled code)
