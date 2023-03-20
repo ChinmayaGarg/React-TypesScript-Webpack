@@ -13,3 +13,5 @@ ES2020 adds support for dynamic imports, and import.meta
 
 In index.tsx inside the src folder:
 Here, we mounted the app component onto the root element. Now we have something which can be rendered in the browser. However, thiss react code cannot be understood by the browser as is. We need babel to convert our react and typescript code into JavaScript.
+
+WebPack is a module bundler. The code we write across multiple components will be bundled by webpack which can then be reference in the index.html file.
