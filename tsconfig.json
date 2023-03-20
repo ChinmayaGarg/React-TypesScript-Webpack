@@ -34,3 +34,5 @@
 // jsx:react-jsx : It enables us to leave out the "input React" line from every component.
 
 // resolveJsonModule: true // This provide support of JSON files
+
+// By "include": ["src/**/*"] we are instructing TypeScript to monitor everything within the source folder.
