@@ -5,3 +5,9 @@ https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
 https://www.typescriptlang.org/tsconfig
 The presence of a tsconfig.json file in a directory indicates that the directory is the root of a TypeScript project. The tsconfig.json file specifies the root files and the compiler options required to compile the project.
 Learn more about tsconfig.json at above links.
+
+https://www.typescriptlang.org/tsconfig#module
+https://javascript.info/modules-dynamic-imports  -- more about dynamic imports
+https://nextjs.org/docs/advanced-features/dynamic-import  -- dynamic import in NextJS
+ES2020 adds support for dynamic imports, and import.meta
+
