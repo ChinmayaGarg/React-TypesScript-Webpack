@@ -1,2 +1,7 @@
 "src" folder will hold our source code. (Here our input resides)
 "build" folder will contain all the files and artifacts when we build our react application for deployment. (Here our output resides i.e. bundled code)
+
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+https://www.typescriptlang.org/tsconfig
+The presence of a tsconfig.json file in a directory indicates that the directory is the root of a TypeScript project. The tsconfig.json file specifies the root files and the compiler options required to compile the project.
+Learn more about tsconfig.json at above links.
